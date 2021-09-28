@@ -19,5 +19,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Por2505&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Por2505&theme=buefy&layout=compact" />
 </a>
-
+<a href="https://github.com/Por2505">
+   <img height="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Por2505&langs_count=8" />
+</a>
 <br/>
