@@ -8,7 +8,7 @@
 - 🤔 &nbsp; Exploring new technologies.
 - 🎓 &nbsp; I graduated with a bachelor’s degree in Computer Engineering from Prince of Songkla University.
 - 💼 &nbsp; Working as a Full Stack Developer at T-Dev.
-- 🌱 &nbsp; Learning more about RPA and Machine Learning.
+- 🌱 &nbsp; Learning more about RPA and Blockchain Technology.
 
 
 
